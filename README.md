@@ -1,2 +1,3 @@
-# gtneoe
-Credit chatgpt 
+# getting-to-know-each-other
+## Credits:
+Credit ChatGPT
